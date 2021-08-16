@@ -96,7 +96,7 @@ This is the main python script that converts the fisheye image to cylindrical pa
 
   - --img_dir: directory of the image
 
-  - --use_default: use default intrinsics and extrinsics as set in the [Default_Parameters.py](uploads/7e8c23bfe0f57f7bed57c2b747ad946e/Default_Parameters.py)
+  - --use_default: use default intrinsics and extrinsics as set in the [Default_Parameters.py](https://github.com/hamza9305/Fisheye-to-Cylindrical/blob/main/Default_Parameters.py)
 
   - --json_config: default=False, whether to use json file for intrinsic and extrinsic
 

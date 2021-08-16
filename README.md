@@ -110,7 +110,7 @@ This is the main python script that converts the fisheye image to cylindrical pa
 
 - Default_arguements.py
 
-This script contains the default arguments that are needed to run the [Fisheye2Cylindrical.py](uploads/75b4d9195f3863c04f105a921f71d3bd/Fisheye2Cylindrical.py) script. Modifications can be done as per the need and relevant fucntionality can be obtained by also making changes to the [Fisheye2Cylindrical.py](uploads/850dda823fc9603f206d99db4661872f/Fisheye2Cylindrical.py) script.
+This script contains the default arguments that are needed to run the [Fisheye2Cylindrical.py](https://github.com/hamza9305/Fisheye-to-Cylindrical/blob/main/Fisheye2Cylindrical.py) script. Modifications can be done as per the need and relevant fucntionality can be obtained.
 
  
 
